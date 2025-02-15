@@ -1,3 +1,4 @@
 # latihan-branch
 
-test ubah branch dev --ini conflict kh
+test ubah branch dev -- test konflik ygy
+
